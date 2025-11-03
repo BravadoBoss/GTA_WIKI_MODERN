@@ -20,7 +20,31 @@ GTA WIKI Modern is a dashboard-style web app designed to make finding GTA-relate
 
 ## Getting Started
 
-*Coming soon - boilerplate code and setup instructions will be added here.*
+### Prerequisites
+
+- Node.js 18+ installed on your system
+- npm or yarn package manager
+
+### Installation
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Run the development server:
+```bash
+npm run dev
+```
+
+3. Open [http://localhost:3000](http://localhost:3000) in your browser to see the app.
+
+### Build for Production
+
+```bash
+npm run build
+npm start
+```
 
 ## License
 
